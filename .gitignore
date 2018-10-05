@@ -1,6 +1,7 @@
 # Folders
 lessons/MNIST_data/
 lessons/F_MNIST_data/
+lessons/Cat_Dog_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
