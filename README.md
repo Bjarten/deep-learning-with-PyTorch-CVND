@@ -3,6 +3,6 @@ This repository was created as part of a lesson from the [Computer Vision Nanode
 
 ## Lessons
 
-This folder contains [Deep Learning with PyTorch](https://github.com/udacity/DL_PyTorch) lessons from [Udacity](https://Udacity.com).
+This folder contains the [Deep Learning with PyTorch](https://github.com/udacity/DL_PyTorch) lessons from [Udacity](https://Udacity.com).
 
 The problems in the lessons have been solved by me to practice the use of PyTorch for Deep Learning.
