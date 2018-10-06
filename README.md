@@ -1,5 +1,5 @@
 # deep-learning-with-PyTorch-CVND
-This repository was created as part of a lesson from the [Computer Vision Nanodegree at Udacity](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
+This repository was created for the [Computer Vision Nanodegree ](https://www.udacity.com/course/computer-vision-nanodegree--nd891) at [Udacity](https://Udacity.com).
 
 ## Lessons
 
